@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+dataset_ms_ls.xlsx
+.git/
